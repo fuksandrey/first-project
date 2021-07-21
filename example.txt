@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello Andrey
-=======
-hello stas
->>>>>>> main
